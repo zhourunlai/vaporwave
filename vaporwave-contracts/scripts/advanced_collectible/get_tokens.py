@@ -8,4 +8,4 @@ def main():
     advanced_collectible = AdvancedCollectible[len(SimpleCollectible) - 1]
     # breakpoint()
     number_of_advanced_collectibles = advanced_collectible.tokenCounter()
-    print(number_of_advanced_collectibles)
+    print(advanced_collectible.address, number_of_advanced_collectibles)

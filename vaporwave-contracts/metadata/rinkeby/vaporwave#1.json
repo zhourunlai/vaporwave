@@ -1,11 +1,11 @@
 {
     "name": "Vaporwave #1",
     "description": "Vaporwave is a generative plot-based art collection",
-    "image": "https://gateway.pinata.cloud/ipfs/QmdKUWAd4oL1EgsGe7zrE37VDxE8Jfhsg9S5GLPRoKa99d?filename=vaporwave_1.png",
+    "image": "https://gateway.pinata.cloud/ipfs/QmTuFshvWWBAiv9A9F9yD8ncPmxMNHrt6He6ANDNitSYWy",
     "attributes": [
         {
             "trait_type": "color numbers",
-            "value": 127
+            "value": 801
         }
     ]
 }

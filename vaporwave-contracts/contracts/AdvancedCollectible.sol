@@ -20,7 +20,7 @@ contract AdvancedCollectible is ERC721, VRFConsumerBase {
     constructor(address _VRFCoordinator, address _LinkToken, bytes32 _keyhash)
     public
     VRFConsumerBase(_VRFCoordinator, _LinkToken)
-    ERC721("VaporWave", "VAPOR")
+    ERC721("Vaporwave Collection", "VAPOR")
     {
         tokenCounter = 0;
         keyHash = _keyhash;

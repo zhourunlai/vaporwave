@@ -15,5 +15,5 @@ def main():
         {"from": dev},
         publish_source=publish_source,
     )
-    fund_with_link(advanced_collectible.address)
+    # fund_with_link(advanced_collectible.address)
     return advanced_collectible

@@ -108,7 +108,7 @@ def plot_glyph(art):
     c_num = []
     for x, chars in enumerate(plotting_str):
         for y, char in enumerate(chars):
-            c = colors[(x+y) % 949]
+            c = colors[(x*y) % 949]
             c_num.append(c)
             if char == ".":
                 continue
